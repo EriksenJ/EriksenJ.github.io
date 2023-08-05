@@ -7,21 +7,38 @@ permalink: /teaching/
 
 
 
-## Lecturing 
+## Lecturing  
 
-* *Econometrics II (Time Series Econometrics)*, Aalborg University, *Guest Lecturer*, *Fall 2021*
-    * Topic: VAR analysis. Invited by Hamid Raza. 
-* *Mathematics II*, Aalborg University, *Lecturer*, half of course lectures,*Spring 2018, 2021*
-* *Econometrics II (Time Series Econometrics)*, Aalborg University, *Lecturer*, half of course lectures, *Fall 2020* 
-* *Statistics*, Aalborg University, *Lecturer*, half of course lectures, *Fall 2020* 
-* *Econometrics I*, Aalborg University, *Guest Lecturer*, *Spring 2017*
-    * Topic: Maximum Likelihood Estimation. Invited by Hamid Raza. 
-* *Introductory Macroeconomics*, Aalborg University, *TA*, *Spring 2017*
-* *Intermediate Macroeconomics (W3211)*, Columbia University (NY), *Invited lecturer*, *Fall 2015*
-  * Topic: Programming growth models in Matlab. Invited by Irasema Alonso 
-* *Introductory Economics*,Aalborg University, *TA*, *Fall 2014*
+Aalborg University
+
+- *Mathematics II* at the  Economics undergraduate program, Spring 2018 and 2021. Taught first half of course lectures with emphasis on differential calculus. Redeveloped the full course in 2018 with Mikael Byrialsen.  
+
+- *Econometrics II (Time Series Econometrics)* at the Economics undergraduate program, Fall 2020. Taught second half of course lectures with emphasis on univariate and multivariate time series analysis and applied usage.
+
+- *Statistics* at the Economics undergraduate program, *Fall 2020*. Taught second half of course lectures with emphasis on inference.
+
+- *Introductory Macroeconomics* at the Mathematics Economics undergraduate program, Spring 2017. Taught two lectures on growth models. 
+
+- *Introductory Microeconomics* at the Business Law undergraduate program, Fall 2020. Supervised and taught students writing projects applying microeconomic concepts to analyse economic problems within business law.
+
 
 ## Supervision
 
-* *Projects in Introductory Microeconomics*, Undergraduate, Aalborg University - *Fall 2020* 
-* *Master's Thesis and Semester Project Supervision*, Graduate and Undergraduate, Aalborg University - *Fall 2018 - Spring 2019*
+I have supervised undergraduate and graduate level semester project and theses at the Economics program, Aalborg University,  between 2017 and  2019. 
+
+
+## Guest lectures 
+
+- *Econometrics II (Time Series Econometrics)* at Economics undergraduate program, Aalborg University, in Fall 2021. I was invited by Hamid Raza and gave a lecture on applied VAR analysis.  
+
+- *Intermediate Macroeconomics (W3211)* at the Economics undergraduate program, Columbia University (NY), in Fall 2015. I was invited by Irasema Alonso and gave a lecture on solving growth models in Matlab. 
+
+
+## Teaching assistant 
+
+- *Introductory Economics* at the Political Science undergraduate program at Aalborg University, 2014. 
+
+
+## External examiner 
+
+I remain affiliated with the Economics program at Aalborg University where I am a co-examiner in the *Statistics*, *Econometrics I* and *Econometrics II* courses verbal exams. I have also co-examined *Game Theory*, *Mathematics II*, and *Econometrics III (Advanced Time Series Analysis)*  courses in the Economics graduate and undergraduate program, and *Macroeconomics* courses in the Business Economics program. 
