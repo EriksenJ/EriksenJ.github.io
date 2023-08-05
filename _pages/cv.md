@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: "CV"
+title: "    "
 author: "Jesper Eriksen"
 permalink: /cv/
 ---
