@@ -1,6 +1,5 @@
 ---
 layout: plain
-title: ""
 author: "Jesper Eriksen"
 ---
 

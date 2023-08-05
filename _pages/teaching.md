@@ -41,4 +41,4 @@ I have supervised undergraduate and graduate level semester project and theses a
 
 ## External examiner 
 
-I remain affiliated with the Economics program at Aalborg University where I am a co-examiner in the *Statistics*, *Econometrics I* and *Econometrics II* courses verbal exams. I have also co-examined *Game Theory*, *Mathematics II*, and *Econometrics III (Advanced Time Series Analysis)*  courses in the Economics graduate and undergraduate program, and *Macroeconomics* courses in the Business Economics program. 
+I remain affiliated with the Economics program at Aalborg University where I am a co-examiner in the *Statistics*, *Econometrics I* and *Econometrics II* courses verbal exams. I have also co-examined *Game Theory*, *Mathematics II*, and *Econometrics III (Advanced Time Series Analysis)*  courses in the graduate and undergraduate program, and *Macroeconomics* courses in the undergraduate Business Economics program. 
