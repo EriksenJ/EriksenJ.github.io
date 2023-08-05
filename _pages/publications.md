@@ -5,7 +5,7 @@ author: "Jesper Eriksen"
 permalink: /research/
 ---
 
-## **Ongoing Research**
+## Ongoing Research
 
 - *School Peers and Education Choice* (with [Andreas Bjerre-Nielsen](https://bjerre-nielsen.me/))
 
@@ -20,16 +20,16 @@ permalink: /research/
   - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020. 
 
 
-## **Publications**
+## Publications
 
 1. *Firm Innovation and Continuing Education*. Eriksen J. & [J. R. Holm](https://vbn.aau.dk/da/persons/116395) (2021). In *Globalization, New and Emerging Technologies, and Sustainable Development – The Danish Innovation System in Transition*, Routledge. [Preprint](https://vbn.aau.dk/files/351175061/Chapter11_august_edit_submission.docx). 
 
-2. *The Geography of Intergenerational Mobility - Danish Evidence*. Eriksen, J. & M. D. Munk (2020). Economics Letters, Vol. 189, 109024. [Preprint](files/IG_Geo_DK.pdf), [Supplementary data (Dataverse)](https://doi.org/10.7910/DVN/YIS2QY). 
+2. *The Geography of Intergenerational Mobility - Danish Evidence*. Eriksen, J. & M. D. Munk (2020). Economics Letters, Vol. 189, 109024. [Preprint](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/IG_Geo_DK.pdf), [Supplementary data (Dataverse)](https://doi.org/10.7910/DVN/YIS2QY). 
 
 3. *Time-Series Cross-Section Analyser i Komparativ Politisk Økonomi*. Eriksen J. & S. Etzerodt (2018). Metode og Forskningsdesign, Vol. 3. [Paper](https://journals.aau.dk/index.php/mf/article/view/3400), [Supplementary files (Github)](https://github.com/EriksenJ/Eriksen_Etzerodt_2018). 
 
 
-## *Reports*
+## Reports
 
 - *Udsyn I Udskolingen – Kvantitativ Evaluering  af Læringsorienteret Uddannelses-vejledning.* Eriksen, J., Thomsen, R. & Reimer, D. (2021). DPU, Aarhus Universitet.[Report](https://emu.dk/sites/default/files/2021-12/gsk_overgange_Rapport%20-%20Udsyn%20i%20Udskolingen.pdf). 
 
