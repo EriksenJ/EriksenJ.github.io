@@ -2,6 +2,8 @@
 title:          Jesper Eriksen 
 description:    "Postdoc"
 
+theme: tale
+
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
@@ -30,7 +32,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       20
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]

@@ -15,7 +15,6 @@ permalink: /research/
 
 - *Peer Effects in Vocational Education and Training* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
   - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.  
-  
 
 - *Refugees and Intergenerational Mobility* 
   - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020. 
@@ -27,7 +26,7 @@ permalink: /research/
 
 2. *The Geography of Intergenerational Mobility - Danish Evidence*. Eriksen, J. & M. D. Munk (2020). Economics Letters, Vol. 189, 109024. [Preprint](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/IG_Geo_DK.pdf), [Supplementary data (Dataverse)](https://doi.org/10.7910/DVN/YIS2QY). 
 
-3. *Time-Series Cross-Section Analyser i Komparativ Politisk Økonomi*. Eriksen J. & S. Etzerodt (2018). Metode og Forskningsdesign, Vol. 3. [Paper](https://journals.aau.dk/index.php/mf/article/view/3400), [Supplementary files (Github)](https://github.com/EriksenJ/Eriksen_Etzerodt_2018). 
+3. *Time-Series Cross-Section Analyser i Komparativ Politisk Økonomi*. Eriksen J. & S. Etzerodt (2018). Metode og Forskningsdesign, Vol. 3. [Paper](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/cv.pdf), [Supplementary files (Github)](https://github.com/EriksenJ/Eriksen_Etzerodt_2018). 
 
 
 ## Reports
