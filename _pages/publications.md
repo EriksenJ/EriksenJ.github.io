@@ -31,8 +31,9 @@ permalink: /research/
 
 ## Reports
 
-1. *Udsyn I Udskolingen – Kvantitativ Evaluering  af Læringsorienteret Uddannelses-vejledning.* Eriksen, J., Thomsen, R. & Reimer, D. (2021). DPU, Aarhus Universitet.[Report](https://emu.dk/sites/default/files/2021-12/gsk_overgange_Rapport%20-%20Udsyn%20i%20Udskolingen.pdf). 
+1. *Udsyn I Udskolingen – Kvantitativ Evaluering  af Læringsorienteret Uddannelses-vejledning.* Eriksen, J., Thomsen, R. & Reimer, D. (2021). DPU, Aarhus Universitet. [Report](https://emu.dk/sites/default/files/2021-12/gsk_overgange_Rapport%20-%20Udsyn%20i%20Udskolingen.pdf). 
 
-2. *The Importance of GPA Requirements for VET and Low-Income Students*. Eriksen, J, & Dougherty, S. (2021). In The Next Steps for Apprenticeship, edited by Cedefop/OECD. Cedefop Reference Series; No 118. Luxembourg: Publications Office. [Report](https://www.cedefop.europa.eu/files/3087_en.pdf).
+2. *The Importance of GPA Requirements for VET and Low-Income Students*. Eriksen, J, & Dougherty, S. (2021), p. 132-143. In The Next Steps for Apprenticeship, edited by Cedefop/OECD. Cedefop Reference Series; No 118. Luxembourg: Publications Office. [Report](https://www.cedefop.europa.eu/files/3087_en.pdf).
 
 3. *Educated Cities and Regional Centralization: Spatial Trends in Students' Location in Denmark, 1982-2013*,  Eriksen, J. (2017). Center for Research on Regional Dynamics and Inequality, Aalborg University. [Report](https://vbn.aau.dk/da/publications/educated-cities-and-regional-centralization-spatial-trends-in-stu)
+
