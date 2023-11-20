@@ -1,6 +1,5 @@
 ---
 layout: plain
-title: "Research"
 author: "Jesper Eriksen"
 permalink: /research/
 ---
