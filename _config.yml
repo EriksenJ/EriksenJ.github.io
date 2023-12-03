@@ -11,7 +11,7 @@ google_analytics: UA-157835857-1
 author:
   name:         Jesper Eriksen
   url:          https://jespereriksen.com
-  email:        jesper.eriksen@soc.ku.dk
+  email:        jesper.eriksen@econ.ku.dk
 
 # Build settings
 markdown:       kramdown
