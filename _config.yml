@@ -5,13 +5,13 @@ description:    "Postdoc"
 theme: tale
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-157835857-1
 
 # Author
 author:
   name:         Jesper Eriksen
   url:          https://jespereriksen.com
-  email:        jesper.eriksen@soc.ku.dk
+  email:        jesper.eriksen@econ.ku.dk
 
 # Build settings
 markdown:       kramdown

@@ -12,6 +12,5 @@ I have previously advised the Danish Ministry of Education as a member of EduQua
 Contact Information
 
 - Email: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)    
-- Homepage: [www.jespereriksen.com](https://www.jespereriksen.com)
 - Bluesky: [@eriksenjesper.bsky.social](@eriksenjesper.bsky.social)
-- Twitter: [@eriksenjesper](https://twitter.com/eriksenjesper) 
+- Twitter/X: [@eriksenjesper](https://twitter.com/eriksenjesper) 
