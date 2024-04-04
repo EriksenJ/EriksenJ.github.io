@@ -12,13 +12,15 @@ permalink: /research/
 
 - *Causal Grandparents?* (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))
 
-- *Peer Effects in Vocational Education and Training* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
-  - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.  
-  - *Submitted*. [Annenberg Institute working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)
 
 - *Refugees and Intergenerational Mobility* 
   - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020. 
 
+## Working papers 
+
+- *Peer Effects in Vocational Education and Training* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
+  - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.  
+  - *Submitted*. [Annenberg Institute working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)
 
 ## Publications
 
