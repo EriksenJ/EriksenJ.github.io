@@ -9,5 +9,5 @@ I am an Assistant Professor at the [Department of Economics](https://www.economi
 
 As a member of EduQuant, I have advised the Danish Ministry of Education. I have also been an invited national expert on vocational education at the OECD/Cedefop and worked as a short-term consultant for the World Bank. During my Ph.D. and Postdoc, I was a visiting fellow at the Harvard Kennedy School, the Department of Social Policy at the LSE, UMass Amherst, and CEBI at the University of Copenhagen.
 
-Do get in touch via e-mail at [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk). 
+Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk). 
 

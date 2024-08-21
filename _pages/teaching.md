@@ -9,21 +9,21 @@ permalink: /teaching/
 
 University of Copenhagen 
 
-- *Economics of Education*, Graduate Economics, Spring 2024. 
+- *Economics of Education*, Graduate, Economics, Spring 2024. 
 
 Aalborg University
 
-- *Applied Causal Inference*, Graduate Economics, Spring 2024. Emphasis: Instrumental variables. Co-taught with Simon Fløj Thomsen. 
-- *Mathematics II*, Undergraduate Economics, Spring 2018 and 2021. Emphasis: Functional forms and optimization. Co-taught with Mikael Byrialsen. 
-- *Econometrics II (Time Series Econometrics)*,  Undergraduate Economics, Fall 2020. Emphasis: Univariate and multivariate time series analysis and empirical application. Co-taught with Hamid Raza. 
-- *Statistics*,  Undergraduate Economics program, Fall 2020. Emphasis: Statistical inference and regression modeling. Co-taught with Hamid Raza. 
-- *Introductory Macroeconomics,  Undergraduate Mathematics-Economics, Spring 2017. Open economy and growth models. Co-taught with Jacob Rubæk Holm. 
+- *Applied Causal Inference*, Graduate, Economics, Spring 2024. Emphasis: Instrumental variables. Co-taught with Simon Fløj Thomsen. 
+- *Mathematics II*, Undergraduate, Economics, Spring 2018 and 2021. Emphasis: Functional forms and optimization. Co-taught with Mikael Byrialsen. 
+- *Econometrics II (Time Series Econometrics)*,  Undergraduate, Economics, Fall 2020. Emphasis: Univariate and multivariate time series analysis and empirical application. Co-taught with Hamid Raza. 
+- *Statistics*,  Undergraduate, Economics, Fall 2020. Emphasis: Statistical inference and regression modeling. Co-taught with Hamid Raza. 
+- *Introductory Macroeconomics,  Undergraduate, Mathematics-Economics, Spring 2017. Open economy and growth models. Co-taught with Jacob Rubæk Holm. 
 
 ## Supervision
 
 University of Copenhagen
 
-- Graduate thesis supervision, Spring 2024. 
+- Graduate thesis supervision, 2024. 
 
 Aalborg University 
 
@@ -32,9 +32,9 @@ Aalborg University
 
 ## Guest lecturer
 
-- *Econometrics II (Time Series Econometrics)*, Aalborg University, Fall 2021. Applied VAR analysis.  
-- *Econometrics I*, Aalborg University, Spring 2018. Maximum Likelihood Estimation.  
-- *Intermediate Macroeconomics (W3211)*,  Columbia University (NY), Fall 2015. Solving growth models numerically with MATLAB. 
+- *Econometrics II (Time Series Econometrics)*, Aalborg University, Fall 2021. Topic: Applied VAR analysis.  
+- *Econometrics I*, Aalborg University, Spring 2018. Topic: Maximum Likelihood Estimation.  
+- *Intermediate Macroeconomics (W3211)*,  Columbia University (NY), Fall 2015. Topic: Solving growth models numerically with MATLAB. 
 
 ## Teaching assistant 
 
