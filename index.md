@@ -2,7 +2,7 @@
 layout: plain
 ---
 
-![*Jesper Eriksen*](avatar_round-modified.png){:style="float:left; margin:10px; width: 20%;"}
+![*Jesper Eriksen*](avatar_round-modified.png){:style="float:right; margin:10px; width: 20%;"}
 
 
 I am an assistant professor at the [Department of Economics](https://www.economics.ku.dk/), University of Copenhagen, and a member of [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/).  My research focuses on what drives education choice, social mobility, and labor market matching.  Some of my ongoing projects study the socio-economic differences in returns to field of study, multigenerational effects of educational reforms, and firm-student matching in apprenticeship markets. 
@@ -22,12 +22,10 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 
 - *Refugees and Intergenerational Mobility* 
-  - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020. 
-
-## Working papers 
+  <!-- - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020.  -->
 
 - *Peer Effects in Vocational Education and Training* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
-  - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.  
+  <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
   - *Submitted*. [Annenberg Institute working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)
 
 ## Publications
