@@ -5,7 +5,23 @@ permalink: /teaching/
 ---
 
 
-## Lecturer  
+# Supervision guide
+
+
+I supervise both Bachelor projects and Master theses. My main research interests are in labor and education economics, where I focus applied microeconometric work. This is also where I am strongest as a supervisor.
+
+If you consider asking me to be your supervisor, send me an email with your idea for the project topic. If I think I can supervise your project, we'll set up a meeting. 
+
+Resources I strongly recommend you to go through before starting your project:
+
+- Anders Munk-Nielsen's supervision page: [link](https://andersmunkn.netlify.app/teaching/supervision/)
+- Jacob Søgaard's supervision guide: [link](https://www.jakobsogaard.com/start/teaching)
+
+
+
+# Teaching overview
+
+## Lecturer
 
 University of Copenhagen 
 
@@ -36,13 +52,13 @@ Aalborg University
 - *Econometrics I*, Aalborg University, Spring 2018. Topic: Maximum Likelihood Estimation.  
 - *Intermediate Macroeconomics (W3211)*,  Columbia University (NY), Fall 2015. Topic: Solving growth models numerically with MATLAB. 
 
-## Teaching assistant 
+## Teaching assistant
 
 Aalborg University 
 
 - *Introductory Economics*, Undergraduate Political Science, 2014. 
 
-## External and co-examiner 
+## External and co-examiner
 
 Aalborg University 
 
