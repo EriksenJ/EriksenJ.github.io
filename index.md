@@ -14,7 +14,7 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 ## Ongoing Research
 
-- *Making Firms Train? Empirical evidence from Danish cost reforms* (with [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004)) 
+- *Making Firms Train? Empirical evidence from Danish incentive reforms* (with [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004)) 
 
 - *The Price of Inclusion?: Impacts of Mainstream Classroom Education for Disabled Students and their Peers* (with [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen))
 
