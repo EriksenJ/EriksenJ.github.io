@@ -9,10 +9,28 @@ I am an assistant professor at the [Department of Economics](https://www.economi
 
 I have advised the Danish Ministry of Education as a member of EduQuant, been an invited presenter as a national expert on vocational education at the OECD/Cedefop, and worked as a short-term consultant for the World Bank. During my PhD and Postdoc I was a visiting fellow at the Harvard Kennedy School, the Department of Social Policy at the LSE, UMass Amherst, and CEBI at the University of Copenhagen.
 
-Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)    
+Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
+
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/eriksenj)
+[![Bluesky](https://img.icons8.com/ios-glyphs/30/000000/bluesky.png)](https://bsky.app/profile/eriksenj)
 
 
 ## Ongoing Research
+
+- *The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform* 
+  - With [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/)
+  - *Submitted*
+<!--
+- *Recognition, information, and choice*
+
+- *Refugees and Intergenerational Mobility* 
+ - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020.  
+-->
+
+- *Peer Effects in Vocational Education and Training* 
+  - With [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty)
+  <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
+  - *Submitted*. [Annenberg Institute working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)
 
 - *Making Firms Train: Empirical evidence from Danish incentive reforms* 
   - With [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004) 
@@ -25,19 +43,6 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 - *Heterogeneous Returns to Fields of Study* 
   - With [Kristian Bernt Karlson](http://www.kristiankarlson.dk/) and [Mikkel Høst Gandil](https://sites.google.com/view/mikkelgandil/home)
-
-- *Causal Grandparents?* 
-  - With [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/)
-
-- *Recognition, information, and choice*
-
-- *Refugees and Intergenerational Mobility* 
-  <!-- - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020.  -->
-
-- *Peer Effects in Vocational Education and Training* 
-  - With [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty)
-  <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
-  - *Submitted*. [Annenberg Institute working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)
 
 
 ## Publications

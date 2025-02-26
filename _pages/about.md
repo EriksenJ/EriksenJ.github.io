@@ -19,13 +19,15 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk).
 
 - *Heterogeneous Returns to Fields of Study* (with [Kristian Bernt Karlson](http://www.kristiankarlson.dk/) and [Mikkel Høst Gandil](https://sites.google.com/view/mikkelgandil/home))
 
-- *Causal Grandparents?* (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))
-
-
 - *Refugees and Intergenerational Mobility* 
   - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020. 
 
 ## Working papers 
+
+
+- *Causal Grandparents?* (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))
+  - *Presentations*: 
+  - *Submitted*   
 
 - *Peer Effects in Vocational Education and Training* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
   - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.  
