@@ -5,7 +5,7 @@ layout: plain
 ![*Jesper Eriksen*](avatar_round-modified.png){:style="float:right; margin:10px; width: 20%;"}
 
 
-I am an assistant professor at the [Department of Economics](https://www.economics.ku.dk/), University of Copenhagen, and a member of [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/).  My research focuses on what drives education choice, social mobility, and labor market matching.  Some of my ongoing projects study the socio-economic differences in returns to field of study, multigenerational effects of educational reforms, and firm-student matching in apprenticeship markets. 
+I am an assistant professor at the [Department of Economics](https://www.economics.ku.dk/), University of Copenhagen, and a member of [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/).  My research focuses on education choice, social mobility, and labor market matching. Some of my ongoing projects study the socio-economic differences in returns to field of study, multigenerational effects of educational reforms, and firm-student matching in apprenticeship markets. 
 
 I have advised the Danish Ministry of Education as a member of EduQuant, been an invited presenter as a national expert on vocational education at the OECD/Cedefop, and worked as a short-term consultant for the World Bank. During my PhD and Postdoc I was a visiting fellow at the Harvard Kennedy School, the Department of Social Policy at the LSE, UMass Amherst, and CEBI at the University of Copenhagen.
 
@@ -19,7 +19,7 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 - *The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform* 
   - With [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/)
-  - *Submitted*
+  - *R&R at AJS*
 <!--
 - *Recognition, information, and choice*
 
@@ -44,7 +44,6 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 - *Heterogeneous Returns to Fields of Study* 
   - With [Kristian Bernt Karlson](http://www.kristiankarlson.dk/) and [Mikkel Høst Gandil](https://sites.google.com/view/mikkelgandil/home)
 
-
 ## Publications
 
 1. *Firm Innovation and Continuing Education*. Eriksen J. & [J. R. Holm](https://vbn.aau.dk/da/persons/116395) (2021). In *Globalization, New and Emerging Technologies, and Sustainable Development – The Danish Innovation System in Transition*, Routledge. [Preprint](https://vbn.aau.dk/files/351175061/Chapter11_august_edit_submission.docx). 
@@ -52,7 +51,6 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 2. *The Geography of Intergenerational Mobility - Danish Evidence*. Eriksen, J. & M. D. Munk (2020). Economics Letters, Vol. 189, 109024. [Preprint](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/IG_Geo_DK.pdf), [Supplementary data (Dataverse)](https://doi.org/10.7910/DVN/YIS2QY). 
 
 3. *Time-Series Cross-Section Analyser i Komparativ Politisk Økonomi*. Eriksen J. & S. Etzerodt (2018). Metode og Forskningsdesign, Vol. 3. [Paper](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/cv.pdf), [Supplementary files (Github)](https://github.com/EriksenJ/Eriksen_Etzerodt_2018). 
-
 
 ## Reports
 
