@@ -12,13 +12,14 @@ I have advised the Danish Ministry of Education as a member of EduQuant, been an
 Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/eriksenj)
-[![Bluesky](https://img.icons8.com/ios-glyphs/30/000000/bluesky.png)](https://bsky.app/profile/eriksenj)
+[![Bluesky](https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/eriksenjesper.bsky.social)
 
 ## Ongoing Research
 
 - *The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform*
   - With [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/)
   - *R&R at AJS*
+
 <!--
 - *Recognition, information, and choice*
 

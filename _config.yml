@@ -31,9 +31,11 @@ plugins:
   - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
 
+# remote theme 
+remote_theme: https://github.com/chesterhow/tale
+
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       20
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
