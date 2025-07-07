@@ -23,7 +23,7 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
   <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
   - *Submitted*. [Annenberg Institute working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)
 
-- Making Firms Train: Empirical evidence from Danish incentive reforms
+- Making Firms Train: Empirical evidence from a Danish tax reform
   - With [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004) 
 
 - The Price of Inclusion?: Impacts of Mainstream Classroom Education for Disabled Students and their Peers
