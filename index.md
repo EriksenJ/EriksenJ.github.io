@@ -18,8 +18,8 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
   - *Revise and Resubmit* at *American Journal of Sociology*.
 
 - "Peer Effects in Vocational Education and Training." (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))
-  <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
   - *Revising*. [Annenberg Institute [working paper](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]
+  <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
 
 - "Making Firms Train: Empirical evidence from a Danish tax reform." (with [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004)) 
 
@@ -29,16 +29,16 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 - "Heterogeneous Returns to Fields of Study." (with [Kristian Bernt Karlson](http://www.kristiankarlson.dk/) and [Mikkel Høst Gandil](https://sites.google.com/view/mikkelgandil/home))
 
-<!--
-- *Recognition, information, and choice*
--->
-
 - "Refugees and Intergenerational Mobility." 
   - *Revising* [[Old working paper](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
 
 <!--
  - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020.  
 --> 
+
+<!--
+- *Recognition, information, and choice*
+-->
 
 ## Publications
 
