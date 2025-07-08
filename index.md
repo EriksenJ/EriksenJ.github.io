@@ -20,6 +20,9 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 - "Peer Effects in Vocational Education and Training." (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
   - *Revising*. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
 
+- "Refugees and Intergenerational Mobility."  
+  - *Revising* [[Old WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]  
+
 - "Making Firms Train: Empirical evidence from a Danish tax reform." (with [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004))  
 
 - "The Price of Inclusion?: Impacts of Mainstream Classroom Education for Disabled Students and their Peers." (with [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen))  
@@ -27,9 +30,6 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 - "School Peers and Education Choice." (with [Andreas Bjerre-Nielsen](https://bjerre-nielsen.me/))  
 
 - "Heterogeneous Returns to Fields of Study." (with [Kristian Bernt Karlson](http://www.kristiankarlson.dk/) and [Mikkel Høst Gandil](https://sites.google.com/view/mikkelgandil/home))  
-
-- "Refugees and Intergenerational Mobility."  
-  - *Revising* [[Old WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]  
 
 <!--
  - *Presentations*: Harvard Visiting Fellows Seminar 2018, IKE seminar 2020.  
