@@ -14,10 +14,11 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 ## Ongoing Research
 
-- "The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform." (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))
+- "The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform." (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))  
   - *Revise and Resubmit* at *American Journal of Sociology*.  
 
-- "Peer Effects in Vocational Education and Training." (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))
+
+- "Peer Effects in Vocational Education and Training." (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
   - *Revising*. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
   <!-- - *Presentations*: APPAM International 2019; CVER Conference 2019; 2019 Cedefop/OECD Joint Symposium on Apprenticeships; Department of Social Policy, LSE, 2022; Center for Economic Performance, Skill and Education Work in Progress seminar, 2022, Rockwool Foundation Research Unit, 2022.   -->
 
