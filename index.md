@@ -33,7 +33,7 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 - *Recognition, information, and choice*
 -->
 
-- *Refugees and Intergenerational Mobility* 
+- "Refugees and Intergenerational Mobility." 
   - *Revising* [[Old working paper](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
 
 <!--
