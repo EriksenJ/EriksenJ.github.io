@@ -14,11 +14,11 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 ## Working papers
 
-- *The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform.* (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))  
+- **The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform.** (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))  
   - Revise and Resubmit at *American Journal of Sociology*. 
 - *Peer Effects in Vocational Education and Training.* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
   - Revising. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
-- *Refugees and Intergenerational Mobility.*  
+- *The Long-Run Effects of Refugee Inflows on Native Children’s Economic Mobility.*  
   - Submitted. [[WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
 - *Switching Strategies? Peer Impacts of Moving Disabled Students to General Education Classrooms* (with [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)) 
   - [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
