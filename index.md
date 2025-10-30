@@ -13,7 +13,7 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 <!-- [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/eriksenj) [![Bluesky](https://img.icons8.com/?size=30&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/eriksenjesper.bsky.social) -->
 
 
-## Ongoing Research  
+## Ongoing Research
 
 - "The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform." (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))  
   - *Revise and Resubmit* at *American Journal of Sociology*.  
@@ -22,11 +22,12 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
   - *Revising*. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
  
 - "Refugees and Intergenerational Mobility."  
-  - *Revising* [[Old WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]  
- 
+  - *Submitted* [[WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
+
 - "Making Firms Train: Empirical evidence from a Danish tax reform." (with [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004))  
  
-- "The Price of Inclusion?: Impacts of Mainstream Classroom Education for Disabled Students and their Peers." (with [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen))  
+- "Switching Strategies? Peer Impacts of Moving Disabled Students to General Education Classrooms" (with [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)) 
+  - [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
  
 - "School Peers and Education Choice." (with [Andreas Bjerre-Nielsen](https://bjerre-nielsen.me/))  
  
