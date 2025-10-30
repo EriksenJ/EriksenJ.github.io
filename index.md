@@ -15,11 +15,11 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 ## Working papers
 
 - *The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform.* (with [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/))  
-  - *Revise and Resubmit* at *American Journal of Sociology*. 
+  - Revise and Resubmit at *American Journal of Sociology*. 
 - *Peer Effects in Vocational Education and Training.* (with [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty))  
-  - *Revising*. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
+  - Revising. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
 - *Refugees and Intergenerational Mobility.*  
-  - *Submitted* [[WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
+  - Submitted. [[WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
 - *Switching Strategies? Peer Impacts of Moving Disabled Students to General Education Classrooms* (with [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)) 
   - [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
 
@@ -31,9 +31,9 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 ## Publications
 
-1. "Firm Innovation and Continuing Education." Eriksen J. & [J. R. Holm](https://vbn.aau.dk/da/persons/116395) (2021). In *Globalization, New and Emerging Technologies, and Sustainable Development – The Danish Innovation System in Transition*, Routledge. [[Preprint](https://vbn.aau.dk/files/351175061/Chapter11_august_edit_submission.docx)]
-2. "The Geography of Intergenerational Mobility - Danish Evidence." Eriksen, J. & M. D. Munk (2020). *Economics Letters*, Vol. 189, 109024. [[Preprint](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/IG_Geo_DK.pdf)] [[Supplementary data (Dataverse)](https://doi.org/10.7910/DVN/YIS2QY)]
-3. "Time-Series Cross-Section Analyser i Komparativ Politisk Økonomi." Eriksen J. & S. Etzerodt (2018). *Metode og Forskningsdesign*, Vol. 3. [[Paper](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/cv.pdf)] [[Supplementary files (Github)](https://github.com/EriksenJ/Eriksen_Etzerodt_2018)] 
+1. *Firm Innovation and Continuing Education*. Eriksen J. & [J. R. Holm](https://vbn.aau.dk/da/persons/116395) (2021). In *Globalization, New and Emerging Technologies, and Sustainable Development – The Danish Innovation System in Transition*, Routledge. [[Preprint](https://vbn.aau.dk/files/351175061/Chapter11_august_edit_submission.docx)]
+2. *The Geography of Intergenerational Mobility - Danish Evidence*. Eriksen, J. & M. D. Munk (2020). *Economics Letters*, Vol. 189, 109024. [[Preprint](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/IG_Geo_DK.pdf)] [[Supplementary data (Dataverse)](https://doi.org/10.7910/DVN/YIS2QY)]
+3. *Time-Series Cross-Section Analyser i Komparativ Politisk Økonomi.* Eriksen J. & S. Etzerodt (2018). *Metode og Forskningsdesign*, Vol. 3. [[Paper](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/cv.pdf)] [[Supplementary files (Github)](https://github.com/EriksenJ/Eriksen_Etzerodt_2018)] 
 
 ## Reports
 
