@@ -6,7 +6,7 @@ layout: plain
 
 I am an Assistant Professor at the [Department of Economics](https://www.economics.ku.dk/), University of Copenhagen, and a member of [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/).  My research focuses on questions in education and labor economics. Some of my ongoing projects study the socio-economic differences in returns to field of study, multigenerational effects of educational reforms, and firm-student matching in apprenticeship markets. 
 
-I have advised the Danish Ministry of Education as a member of EduQuant, been an invited presenter at the OECD/Cedefop as a national expert on vocational education, and worked as a short-term consultant for the World Bank. I have also been a visiting researcher including at the Harvard Kennedy School, the LSE, UMass Amherst, and CEBI at the University of Copenhagen. 
+I have advised the Danish Ministry of Education as a member of EduQuant, been an invited presenter at the OECD/Cedefop as a national expert on vocational education, and worked as a short-term consultant for the World Bank. I have also been a visiting researcher including at the Centre for Economic Performance, Harvard Kennedy School, the LSE, UMass Amherst, and CEBI at the University of Copenhagen. 
 
 Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk) 
 
@@ -23,15 +23,21 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 - **The Long-Run Effects of Refugee Inflows on Native Children’s Economic Mobility.**  
   - Submitted. [[WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
 - **Switching Strategies? Peer Impacts of Moving Disabled Students to General Education Classrooms** 
-  - With [Laura Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)
+  - With [L. Robin Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)
   - [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
 
-## Ongoing research
+## (selected) ongoing research
 
+- **Discrimination in Informal Markets: Evidence from Danish Apprenticeships**
+- **Recognition and Choice.** 
+- **Perceptions of returns to learning-on-the-job.** 
+  - With [Franziska Valder](https://sites.google.com/view/franziskavalder/home)  
+- **Vaccinating effects of mental health treatment.** 
+  - With August Juul Petersen 
 - **Making Firms Train: Empirical evidence from a Danish tax reform.** 
   - With [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004)
 - **School Peers and Education Choice.**
-  - With Saandra Nandakumar and [Andreas Bjerre-Nielsen](https://bjerre-nielsen.me/)
+  - With [Saandra Nandakumar](https://www.unibocconi.it/en/faculty/saandra-nandakumar) and [Andreas Bjerre-Nielsen](https://bjerre-nielsen.me/)
 - **Heterogeneous Returns to Fields of Study**. 
   - With [Kristian Bernt Karlson](http://www.kristiankarlson.dk/) and [Mikkel Høst Gandil](https://sites.google.com/view/mikkelgandil/home)
 
