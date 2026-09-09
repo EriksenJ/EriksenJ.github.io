@@ -4,9 +4,11 @@ layout: plain
 
 ![*Jesper Eriksen*](avatar_round-modified.png){:style="float:right; margin:10px; width: 20%;"}
 
-I am an Assistant Professor at the [Department of Economics](https://www.economics.ku.dk/), University of Copenhagen, and a member of [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/).  My research focuses on questions in education and labor economics. Some of my ongoing projects study the socio-economic differences in returns to field of study, multigenerational effects of educational reforms, and firm-student matching in apprenticeship markets. 
+I am an Assistant Professor at the [Department of Economics](https://www.economics.ku.dk/), University of Copenhagen, and a member of [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/). My research is in education and labor economics. My ongoing work studies how education policy and labor market structures affect people's opportunities and outcomes.  
 
 I have advised the Danish Ministry of Education as a member of EduQuant, been an invited presenter at the OECD/Cedefop as a national expert on vocational education, and worked as a short-term consultant for the World Bank. I have also been a visiting researcher including at the Centre for Economic Performance, Harvard Kennedy School, the LSE, UMass Amherst, and CEBI at the University of Copenhagen. 
+
+**_News:_** I have been awarded 5 mio. DKK by the Rockwool Foundation for my research project on "*Disability Aid for University Students.*" You can read more about the project [here](rockwoolproject).
 
 Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk) 
 
@@ -26,10 +28,9 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
   - With [L. Robin Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)
   - [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
 
-## (selected) ongoing research
+## (Selected) ongoing research
 
 - **Discrimination in Informal Markets: Evidence from Danish Apprenticeships**
-- **Recognition and Choice.** 
 - **Perceptions of returns to learning-on-the-job.** 
   - With [Franziska Valder](https://sites.google.com/view/franziskavalder/home)  
 - **Vaccinating effects of mental health treatment.** 
@@ -52,3 +53,7 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 1. **Udsyn I Udskolingen – Kvantitativ Evaluering  af Læringsorienteret Uddannelses-vejledning.** Eriksen, J., Thomsen, R. & D. Reimer (2021). DPU, Aarhus Universitet. [[Report](https://emu.dk/sites/default/files/2021-12/gsk_overgange_Rapport%20-%20Udsyn%20i%20Udskolingen.pdf)]
 2. **The Importance of GPA Requirements for VET and Low-Income Students.** Eriksen, J, & S. Dougherty (2021), p. 132-143. In *The Next Steps for Apprenticeship*, edited by Cedefop/OECD. Cedefop Reference Series; No 118. Luxembourg: Publications Office. [[Report](https://www.cedefop.europa.eu/files/3087_en.pdf)]
 3. **Educated Cities and Regional Centralization: Spatial Trends in Students' Location in Denmark, 1982-2013.**  Eriksen, J. (2017). Center for Research on Regional Dynamics and Inequality, Aalborg University. [[Report](https://vbn.aau.dk/da/publications/educated-cities-and-regional-centralization-spatial-trends-in-stu)]
+
+## *Disability Aid for University Students* (Rockwool Foundation grant) {#rockwoolproject}
+
+I have been awarded 5 mio. DKK from the Rockwool Foundation for my research project on *Disability Aid for University students*. Growing numbers of youth receive diagnoses for disabilities across the OECD countries, particularly for mental health problems. These diagnoses often give the right to expensive disability aid, including aid that aims to help students through their tertiary education. But it is unclear how the aid helps the recipients. We will investigate how disability aid in the tertiary education system helps the recipients' educational attainment and achievement, labor market attachment, and health. I will conduct the project with postdocs Pernille Plato and Asbjørn Juul Petersen. The project runs from October, 2026 to September, 2029. 
