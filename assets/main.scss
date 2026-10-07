@@ -3,3 +3,8 @@
 ---
 
 @import 'tale';
+
+// Paper abstracts on the front page: add {: .abstract} right after the list marker
+.abstract {
+  font-size: 0.85em;
+}
