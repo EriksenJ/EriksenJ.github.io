@@ -18,15 +18,17 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
 
 - **The Grandparent Effect Reexamined: Quasi-Experimental Evidence from a Large-Scale Educational Reform.** 
   - With [Mads Meier Jæger](https://madsjaeger.dk/) and [Kristian Bernt Karlson](http://www.kristiankarlson.dk/)
-  - Revise and Resubmit at *American Journal of Sociology*. 
+  - *Revise and Resubmit* at *American Journal of Sociology*. 
 - **Peer Effects in Vocational Education and Training.** 
   - With [Shaun Dougherty](https://peabody.vanderbilt.edu/bio/shaun-dougherty)  
-  - Revising. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
+  - *Revising*. [[Annenberg Institute WP](https://edworkingpapers.com/sites/default/files/ai24-943.pdf)]  
 - **The Long-Run Effects of Refugee Inflows on Native Children’s Economic Mobility.**  
   - Submitted. [[WP](https://raw.githubusercontent.com/eriksenj/eriksenj.github.io/master/_content/Refugees_IGM_submission.pdf)]
 - **Switching Strategies? Peer Impacts of Moving Disabled Students to General Education Classrooms** 
   - With [L. Robin Caron](https://laurakcaron.github.io/) and [Jeppe Johansen](https://dk.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen)
-  - [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
+  - *Submitted*. [[WP](https://laurakcaron.github.io/Caron_Eriksen_Johansen_Switching_Strategies.pdf)]
+- **Making Firms Train: Evidence from a Danish reform.** 
+  - *Submitted*. With [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004)
 
 ## (Selected) ongoing research
 
@@ -35,8 +37,6 @@ Contact: [jesper.eriksen@econ.ku.dk](mailto:jesper.eriksen@econ.ku.dk)
   - With [Franziska Valder](https://sites.google.com/view/franziskavalder/home)  
 - **Vaccinating effects of mental health treatment.** 
   - With August Juul Petersen 
-- **Making Firms Train: Empirical evidence from a Danish tax reform.** 
-  - With [Mette Ejrnæs](https://forskning.ku.dk/soeg/result/profil/?id=5004)
 - **School Peers and Education Choice.**
   - With [Saandra Nandakumar](https://www.unibocconi.it/en/faculty/saandra-nandakumar) and [Andreas Bjerre-Nielsen](https://bjerre-nielsen.me/)
 - **Heterogeneous Returns to Fields of Study**. 
